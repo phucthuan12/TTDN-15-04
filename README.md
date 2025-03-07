@@ -1,6 +1,20 @@
 Quản lý dự án
-1. quản lý dự án
-2. ![image](https://github.com/user-attachments/assets/9513221a-b319-4618-8ecc-b4dc3e16cdc0)
+1. Quản lý dự án
+ ![image](https://github.com/user-attachments/assets/9513221a-b319-4618-8ecc-b4dc3e16cdc0)
+2. Quản lý nhiệm vụ
+   ![image](https://github.com/user-attachments/assets/9ac09873-c135-4185-8146-a0371bfa886f)
+3. Thời gian làm việc
+   ![image](https://github.com/user-attachments/assets/0360a9f8-254d-43a6-a6e4-d0274f638b37)
+4. Tiến độ làm việc
+   ![image](https://github.com/user-attachments/assets/34b01405-b429-4b57-bf81-e31870d2d53b)
+5. Rủi do dự án
+   ![image](https://github.com/user-attachments/assets/9c8be28d-3d02-41b6-ada8-44b3b4060ab2)
+6. Dự án trễ hạn
+   ![image](https://github.com/user-attachments/assets/6c64af82-ae83-4aa6-9508-51ae7b691b69)
+7. Thống kê
+   ![image](https://github.com/user-attachments/assets/a1f4e9b9-3dc5-4194-90b5-9241ab4b1412)
+
+
 
 
 ---
