@@ -1,3 +1,8 @@
+Quản lý dự án
+1. quản lý dự án
+2. ![image](https://github.com/user-attachments/assets/9513221a-b319-4618-8ecc-b4dc3e16cdc0)
+
+
 ---
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
