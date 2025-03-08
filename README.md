@@ -1,5 +1,5 @@
 Quản lý dự án
-1. Quản lý dự án
+1. Dự án
  ![image](https://github.com/user-attachments/assets/9513221a-b319-4618-8ecc-b4dc3e16cdc0)
 2. Quản lý nhiệm vụ
    ![image](https://github.com/user-attachments/assets/9ac09873-c135-4185-8146-a0371bfa886f)
