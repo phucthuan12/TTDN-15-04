@@ -12,8 +12,8 @@ Hệ thống quản lý dự án
 6. Dự án trễ hạn
 ![image](https://github.com/user-attachments/assets/da1ea825-7a2a-4f1e-acf6-5f27e2c44c98)
 7. Dashboard
-![image](https://github.com/user-attachments/assets/55b2b9df-cead-4428-b51d-94fcb6a9d513)
-
+![image](https://github.com/user-attachments/assets/4f2866c2-115e-4305-8033-6a5ef32b3f74)
+![image](https://github.com/user-attachments/assets/656cc7e9-1bf3-4ce0-86aa-fc5f7d72f26f)
 
 
 ---
