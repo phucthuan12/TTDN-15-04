@@ -1,19 +1,18 @@
 Hệ thống quản lý dự án
 1. Dự án
- ![image](https://github.com/user-attachments/assets/9513221a-b319-4618-8ecc-b4dc3e16cdc0)
+![image](https://github.com/user-attachments/assets/aea65e86-259f-45f2-82aa-0de339856700)
 2. Quản lý nhiệm vụ
-   ![image](https://github.com/user-attachments/assets/9ac09873-c135-4185-8146-a0371bfa886f)
+![image](https://github.com/user-attachments/assets/fc01d55f-4484-4fc7-b4f7-b20be50bc4cb)
 3. Thời gian làm việc
-   ![image](https://github.com/user-attachments/assets/0360a9f8-254d-43a6-a6e4-d0274f638b37)
-4. Tiến độ làm việc
-   ![image](https://github.com/user-attachments/assets/34b01405-b429-4b57-bf81-e31870d2d53b)
+![image](https://github.com/user-attachments/assets/8520454e-b269-4e8a-8a5e-f05b5ffe163b)
+4. Tiến độ công việc
+ ![image](https://github.com/user-attachments/assets/fd9e307b-f3b3-4e86-b269-0ebea3cb8e4a)
 5. Rủi do dự án
-   ![image](https://github.com/user-attachments/assets/9c8be28d-3d02-41b6-ada8-44b3b4060ab2)
+![image](https://github.com/user-attachments/assets/48ff191e-e43a-431e-8e1a-6b43e14e7772)
 6. Dự án trễ hạn
-   ![image](https://github.com/user-attachments/assets/6c64af82-ae83-4aa6-9508-51ae7b691b69)
-7. Thống kê
-   ![image](https://github.com/user-attachments/assets/a1f4e9b9-3dc5-4194-90b5-9241ab4b1412)
-
+![image](https://github.com/user-attachments/assets/da1ea825-7a2a-4f1e-acf6-5f27e2c44c98)
+7. Dashboard
+![image](https://github.com/user-attachments/assets/55b2b9df-cead-4428-b51d-94fcb6a9d513)
 
 
 
