@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "quan_ly_cong_viec",
+    'name': "quan_ly_du_an",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Quản Lý công việc
+        Quản Lý dự án
     """,
 
     'author': "phuccthuan",
@@ -25,10 +25,13 @@
     # always loaded
     'data': [
         'security/ir.model.access.csv',
-        'views/cong_viec.xml',
-        'views/cong_viec_con.xml',
-        'views/ghi_nhan_thoi_gian.xml',
-        'views/danh_gia_cong_viec.xml',
+        'views/du_an.xml',
+        'views/nhiem_vu.xml',
+        'views/thoi_gian_lam_viec.xml',
+        'views/tien_do.xml',
+        'views/rui_ro.xml',
+        'views/tre_han.xml',
+        'views/dashboard.xml',
         'views/menu.xml',
     ],
     # only loaded in demonstration mode

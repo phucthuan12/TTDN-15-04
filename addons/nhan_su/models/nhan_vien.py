@@ -21,3 +21,10 @@ class NhanVien(models.Model):
         for record in self:
             if record.ho_ten_dem and record.ten:
                 record.ho_va_ten = record.ho_ten_dem + ' ' + record.ten
+                
+    def name_get(self):
+        result = []
+        for record in self:
+            name = f"{record.ma_dinh_danh} - {record.ho_va_ten} "
+            result.append((record.id, name))
+        return result
