@@ -1,4 +1,6 @@
 Hệ thống quản lý dự án
+POSTER
+![image](https://github.com/user-attachments/assets/6a147d32-42c7-4954-a616-28a16fafcff6)
 1. Dự án
 ![image](https://github.com/user-attachments/assets/aea65e86-259f-45f2-82aa-0de339856700)
 2. Quản lý nhiệm vụ
